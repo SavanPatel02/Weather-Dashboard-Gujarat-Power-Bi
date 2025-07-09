@@ -81,6 +81,6 @@ The dataset contains daily weather readings for 15 major cities of Gujarat inclu
 ## 🙌 Author
 
 **Savan Patel**  
-• [Email](mailto:savanpatel0208@gmail.com)
+• [savanpatel0208@gmail.com](mailto:savanpatel0208@gmail.com)
 
 ---
